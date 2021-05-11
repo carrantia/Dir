@@ -3,9 +3,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://img.shields.io/badge/DashBoard-v1-brightgreen.svg" alt="Logo" width="380" height="180">
   </a>
-  ![npm package](https://img.shields.io/badge/DashBoard-v1-brightgreen.svg)
   <h3 align="center">project_title</h3>
 
   
