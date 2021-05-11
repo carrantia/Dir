@@ -85,6 +85,8 @@ Project Link: [https://github.com/carrantia/DI-TE07](https://github.com/carranti
 * [Tutorial creacion Dashboard](https://docs.devexpress.com/Dashboard/16307/get-started/build-wpf-dashboard-applications/create-a-dashboard-in-visual-studio)
 * [GitHub](https://github.com/)
 * [PostgreeSQL](https://www.postgresql.org/)
+* [JDash](http://www.jdash.net/)
+* [NuGet dashboard packages](https://nugetmusthaves.com/Tag/dashboard)
 
 
 
