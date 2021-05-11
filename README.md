@@ -83,8 +83,8 @@ Project Link: [https://github.com/carrantia/DI-TE07](https://github.com/carranti
 * [Visual Studio 2019](https://visualstudio.microsoft.com/es/downloads/)
 * [C# Manual](https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/)
 * [Tutorial creacion Dashboard](https://docs.devexpress.com/Dashboard/16307/get-started/build-wpf-dashboard-applications/create-a-dashboard-in-visual-studio)
-* []()
-* []()
+* [GitHub](https://github.com/)
+* [PostgreeSQL](https://www.postgresql.org/)
 
 
 
