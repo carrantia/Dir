@@ -5,7 +5,7 @@
   <a href="https://github.com/github_username/repo_name">
     <img src="https://img.shields.io/badge/DashBoard-v1-brightgreen.svg" alt="Logo" width="380" height="180">
   </a>
-  <h3 align="center">project_title</h3>
+  
 
   
 </p>
@@ -55,7 +55,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Instalacion
 
 1. Clone the repo
    ```sh
@@ -69,9 +69,9 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Carrantia - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
