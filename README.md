@@ -53,7 +53,7 @@ Dominio de:
     sistemas de bases de datos: servidor sql, mysql, ingres
     certificaciones: ccna
 
-experiencia profesional
+experiencia profesional:
 
 hero tech, cambridge, mass.
 desarrollador de software (junio de 2016 – presente)
