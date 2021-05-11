@@ -29,7 +29,7 @@
 <!-- Acerca del projecto -->
 ## About
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.shutterstock.com/image-vector/infographic-dashboard-template-simple-green-blue-1222098511)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
