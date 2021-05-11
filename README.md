@@ -71,7 +71,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contacto
 
-Carrantia - [@GDevelopApp](https://twitter.com/twitter_handle) - email
+Carrantia - [@GDevelopApp](https://twitter.com/twitter_handle) - carrantia@gdevelopapp.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
