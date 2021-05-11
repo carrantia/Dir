@@ -46,12 +46,12 @@ Diseño y desarrollo de software con experiencia para soluciones de negocios.
 
 Dominio de:
 
-    lenguajes: c ++, java, c, .net, sql
-    aplicaciones: ms visual studio, eclipse
-    servidores de aplicaciones: jboss, tomcat
-    sistemas operativos: windows, unix, linux
-    sistemas de bases de datos: servidor sql, mysql, ingres
-    certificaciones: ccna
+   * lenguajes: c ++, java, c, .net, sql
+   * aplicaciones: ms visual studio, eclipse
+   * servidores de aplicaciones: jboss, tomcat
+   * sistemas operativos: windows, unix, linux
+   * sistemas de bases de datos: servidor sql, mysql, ingres
+   * certificaciones: ccna
 
 Experiencia profesional:
 
