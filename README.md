@@ -32,8 +32,15 @@
 Se trata de un dashboard con una serie de vistas que nos va a permitir comparar una amplia variedad de datos 
 de forma simultanea y que se actualizan con los ultimos datos disponibles de manera automatica.
 
-Ateaves del dashboard la empresa visualiza la información más importante de manera fundamentalmente gráfica,
+Atraves del dashboard la empresa visualiza la información más importante de manera fundamentalmente gráfica,
 permitiendo la optimización de la estrategia de la empresa.
+
+En este dashboard se verá sintetizada la información de ventas de una empresa que se compone de 3 comerciales. 
+Pudiendo ver de un vistazo la siguiente informacion: 
+
+* Datos del comercial seleccionado
+* Facturación total anual a cada empresa
+* Gráfico con el resumen de la facturación mensual a cada empresa
 
 
 
