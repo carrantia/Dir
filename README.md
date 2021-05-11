@@ -73,7 +73,7 @@ This is an example of how to list things you need to use the software and how to
 
 Carrantia - [@GDevelopApp](https://twitter.com/GDevelopApp) - carrantia@gdevelopapp.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/carrantia/DI-TE07](https://github.com/carrantia/DI-TE07)
 
 
 
