@@ -55,8 +55,8 @@ Dominio de:
 
 experiencia profesional:
 
-hero tech, cambridge, mass.
-desarrollador de software (junio de 2016 – presente)
+hero tech, cambridgeApps,
+desarrollador de software (junio de 2016 – presente),
 parte del equipo de tecnología GDevelopApp.
 
 Carrantia - [@GDevelopApp](https://twitter.com/GDevelopApp) - carrantia@gdevelopapp.com
