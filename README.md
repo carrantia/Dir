@@ -40,6 +40,24 @@ Here's a blank template to get started:
 
 <!-- CONTACT -->
 ## Contacto
+Ingeniero informatico
+
+Diseño y desarrollo de software con experiencia para soluciones de negocios.
+
+Dominio de:
+
+    lenguajes: c ++, java, c, .net, sql
+    aplicaciones: ms visual studio, eclipse
+    servidores de aplicaciones: jboss, tomcat
+    sistemas operativos: windows, unix, linux
+    sistemas de bases de datos: servidor sql, mysql, ingres
+    certificaciones: ccna
+
+experiencia profesional
+
+hero tech, cambridge, mass.
+desarrollador de software (junio de 2016 – presente)
+parte del equipo de tecnología GDevelopApp.
 
 Carrantia - [@GDevelopApp](https://twitter.com/GDevelopApp) - carrantia@gdevelopapp.com
 
@@ -58,21 +76,3 @@ Project Link: [https://github.com/carrantia/DI-TE07](https://github.com/carranti
 * [JDash](http://www.jdash.net/)
 * [NuGet dashboard packages](https://nugetmusthaves.com/Tag/dashboard)
 
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
