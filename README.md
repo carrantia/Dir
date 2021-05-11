@@ -53,11 +53,11 @@ Dominio de:
     sistemas de bases de datos: servidor sql, mysql, ingres
     certificaciones: ccna
 
-experiencia profesional:
+Experiencia profesional:
 
-hero tech, cambridgeApps,
-desarrollador de software (junio de 2016 – presente),
-parte del equipo de tecnología GDevelopApp.
+* Hero tech, 
+* CambridgeApps
+* GDevelopApp(junio de 2016 – presente)
 
 Carrantia - [@GDevelopApp](https://twitter.com/GDevelopApp) - carrantia@gdevelopapp.com
 
