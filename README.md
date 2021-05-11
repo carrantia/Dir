@@ -29,11 +29,11 @@
 <!-- Acerca del projecto -->
 ## About
 
-[![Product Name Screen Shot][product-screenshot]](https://www.shutterstock.com/image-vector/infographic-dashboard-template-simple-green-blue-1222098511)
+Se trata de un dashboard con una serie de vistas que nos va a permitir comparar una amplia variedad de datos 
+de forma simultanea y que se actualizan con los ultimos datos disponibles de manera automatica.
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+Ateaves del dashboard la empresa visualiza la información más importante de manera fundamentalmente gráfica,
+permitiendo la optimización de la estrategia de la empresa.
 
 
 
